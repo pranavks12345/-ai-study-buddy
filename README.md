@@ -69,7 +69,10 @@ This project demonstrates:
 - Progress tracking algorithms
 
 Perfect for showcasing frontend skills and user experience design.
-
+Live Demo
+- [Demo](https://ai-study-buddy-pi.vercel.app)
+- 
+- 
 ## Author
 
 Pranav Kumarsubha
