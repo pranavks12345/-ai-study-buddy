@@ -1,70 +1,81 @@
-# Getting Started with Create React App
+# Study Buddy
 
-This project was bootstrapped with [Create React App](https://github.com/facebook/create-react-app).
+A simple study tracking app to help you stay focused and see your progress.
 
-## Available Scripts
+## What it does
 
-In the project directory, you can run:
+- Track study sessions with a timer
+- Take quizzes to test your knowledge
+- See your progress over time
+- Set daily goals and build study streaks
 
-### `npm start`
+## Features
 
-Runs the app in the development mode.\
-Open [http://localhost:3000](http://localhost:3000) to view it in your browser.
+**Study Timer**
+- Start/pause/resume sessions
+- Real-time focus scoring based on activity
+- Track breaks and session quality
 
-The page will reload when you make changes.\
-You may also see any lint errors in the console.
+**Knowledge Tests**
+- Built-in quizzes for popular subjects
+- Instant feedback with explanations
+- Progress tracking for each topic
 
-### `npm test`
+**Progress Analytics**
+- Daily study time vs goals
+- Topic-wise progress breakdown
+- Study streak tracking
+- Performance insights
 
-Launches the test runner in the interactive watch mode.\
-See the section about [running tests](https://facebook.github.io/create-react-app/docs/running-tests) for more information.
+**Easy to Use**
+- Clean, simple interface
+- Dark/light mode toggle
+- Works entirely in your browser
+- No login required
 
-### `npm run build`
+## Tech Stack
 
-Builds the app for production to the `build` folder.\
-It correctly bundles React in production mode and optimizes the build for the best performance.
+- React
+- JavaScript
+- CSS3
+- Local Storage
 
-The build is minified and the filenames include the hashes.\
-Your app is ready to be deployed!
+## Quick Start
 
-See the section about [deployment](https://facebook.github.io/create-react-app/docs/deployment) for more information.
+```bash
+git clone https://github.com/pranavks12345/ai-study-buddy.git
+cd ai-study-buddy
+npm install
+npm start
+```
 
-### `npm run eject`
+Opens at `http://localhost:3000`
 
-**Note: this is a one-way operation. Once you `eject`, you can't go back!**
+## How to Use
 
-If you aren't satisfied with the build tool and configuration choices, you can `eject` at any time. This command will remove the single build dependency from your project.
+1. Pick a topic from the dashboard
+2. Click "Start Session" to begin studying
+3. Use the timer to track your focus time
+4. Take quizzes to test what you've learned
+5. Check your analytics to see progress
 
-Instead, it will copy all the configuration files and the transitive dependencies (webpack, Babel, ESLint, etc) right into your project so you have full control over them. All of the commands except `eject` will still work, but they will point to the copied scripts so you can tweak them. At this point you're on your own.
+## Built With
 
-You don't have to ever use `eject`. The curated feature set is suitable for small and middle deployments, and you shouldn't feel obligated to use this feature. However we understand that this tool wouldn't be useful if you couldn't customize it when you are ready for it.
+This project demonstrates:
+- Modern React development
+- Clean UI/UX design
+- Data persistence
+- Real-time interactions
+- Progress tracking algorithms
 
-## Learn More
+Perfect for showcasing frontend skills and user experience design.
 
-You can learn more in the [Create React App documentation](https://facebook.github.io/create-react-app/docs/getting-started).
+## Author
 
-To learn React, check out the [React documentation](https://reactjs.org/).
+Pranav Kumarsubha
+- [GitHub](https://github.com/pranavks12345)
+- [LinkedIn](https://linkedin.com/in/pranav-kumarsubha)
 
-### Code Splitting
+---
 
-This section has moved here: [https://facebook.github.io/create-react-app/docs/code-splitting](https://facebook.github.io/create-react-app/docs/code-splitting)
-
-### Analyzing the Bundle Size
-
-This section has moved here: [https://facebook.github.io/create-react-app/docs/analyzing-the-bundle-size](https://facebook.github.io/create-react-app/docs/analyzing-the-bundle-size)
-
-### Making a Progressive Web App
-
-This section has moved here: [https://facebook.github.io/create-react-app/docs/making-a-progressive-web-app](https://facebook.github.io/create-react-app/docs/making-a-progressive-web-app)
-
-### Advanced Configuration
-
-This section has moved here: [https://facebook.github.io/create-react-app/docs/advanced-configuration](https://facebook.github.io/create-react-app/docs/advanced-configuration)
-
-### Deployment
-
-This section has moved here: [https://facebook.github.io/create-react-app/docs/deployment](https://facebook.github.io/create-react-app/docs/deployment)
-
-### `npm run build` fails to minify
-
-This section has moved here: [https://facebook.github.io/create-react-app/docs/troubleshooting#npm-run-build-fails-to-minify](https://facebook.github.io/create-react-app/docs/troubleshooting#npm-run-build-fails-to-minify)
+Just a straightforward study app that works.
